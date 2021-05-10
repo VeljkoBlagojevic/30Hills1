@@ -1,3 +1,5 @@
+//Author Veljko Blagojevic
+
 package person;
 
 public interface PersonInterface {
